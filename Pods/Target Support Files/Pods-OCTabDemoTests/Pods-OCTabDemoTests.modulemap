@@ -1,0 +1,6 @@
+framework module Pods_OCTabDemoTests {
+  umbrella header "Pods-OCTabDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
